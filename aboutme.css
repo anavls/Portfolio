@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    text-align: center;
+    margin: 13%;
+}
+
+a {
+    color: white;
+    font-size: 28px;
+}
+
+
+p1 {
+    font-size: 28px;
+    color: #00665E;
+    
+}
+
+p2 {
+    font-size: 28px;
+    color: #05854C;
+}
+
+p3 {
+    font-size: 28px;
+    color: red;
+}
