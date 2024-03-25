@@ -16,11 +16,12 @@ a{
     font-size: 40px;
     text-decoration: none;
     font-family: "Butcherman", system-ui;
+    transition: 666ms;
     font-style: normal;
 }
 
 a:hover {
-    transition: 66ms;
+    transition: 666ms;
     color: rgb(90, 0, 0);
     font-size: 50px;
 }
@@ -34,7 +35,7 @@ h1{
 }
 
 h1:hover {
-    transition: 66ms;
+    transition: 666ms;
     color: rgb(90, 0, 0);
     font-size: 50px;
 }
