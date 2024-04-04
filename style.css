@@ -13,7 +13,7 @@ body{
 
 a{
     color: rgb(255, 255, 255);
-    font-size: 40px;
+    font-size: 30px;
     text-decoration: none;
     font-family: "Butcherman", system-ui;
     transition: 666ms;
@@ -23,13 +23,13 @@ a{
 a:hover {
     transition: 666ms;
     color: rgb(90, 0, 0);
-    font-size: 50px;
+    font-size: 40px;
 }
 
 h1{
     color: rgb(255, 255, 255);
     margin: 0px;
-    font-size: 40px;
+    font-size: 30px;
     font-family: "Butcherman", system-ui;
     font-style: normal;
 }
@@ -37,7 +37,7 @@ h1{
 h1:hover {
     transition: 666ms;
     color: rgb(90, 0, 0);
-    font-size: 50px;
+    font-size: 40px;
 }
 
 p{
@@ -50,7 +50,7 @@ header{
     padding: 32px;
     border-bottom: 1px solid #333;
     background-color: rgb(0, 0, 0, 0.1);
-    word-spacing: 350px;
+    word-spacing: 250px;
     margin-bottom: 60px;
 }
 
